@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    gap: 5px; 
+    flex-flow: row wrap;
+    height: 600px;
+
+}
+h2 {
+    border: 2px solid black;
+    text-align: center;
+    width: 100px;
+}
